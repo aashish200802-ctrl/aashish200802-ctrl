@@ -1,47 +1,84 @@
-## Hi there 👋
+<div align="center">
 
+<img src="assets/anime-nature-banner.png" width="100%" alt="Aashish Anime Nature Banner">
 
-**aashish200802-ctrl/aashish200802-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌿 Aashish
 
-Here are some ideas to get you started:
+### BCA 2nd Year Student • Editor • Canva Designer • Video Creator
 
-Hi, I'm Aashish 👋
+**Turning ideas into visuals ✨ | Learn • Edit • Create • Grow**
 
-🎓 BCA 2nd Year Student
-🎨 Graphic Design Enthusiast
+[![BCA](https://img.shields.io/badge/BCA-2nd%20Year-2563EB?style=for-the-badge)](#)
+[![Video Editing](https://img.shields.io/badge/Video-Editing-06B6D4?style=for-the-badge)](#)
+[![Canva](https://img.shields.io/badge/Canva-Design-7C3AED?style=for-the-badge&logo=canva)](https://www.canva.com/)
+[![CapCut](https://img.shields.io/badge/CapCut-Pro-111827?style=for-the-badge)](https://www.capcut.com/)
+[![VN](https://img.shields.io/badge/VN-Editor-FFFFFF?style=for-the-badge)](#)
 
-Welcome to my GitHub profile! I'm currently pursuing my Bachelor of Computer Applications (BCA) and exploring the world of technology and creativity.
+</div>
 
-👨‍💻 About Me
+---
 
-- 🎓 Currently studying BCA – 2nd Year
-- 🎨 My hobby is Graphic Design
-- 💻 Interested in Computer Science & Technology
-- 📚 Always learning and improving my skills
-- 🚀 Interested in combining technology with creative design
+## 🌱 About Me
 
-🎨 My Hobby – Graphic Design
+Hi! I'm **Aashish**, a BCA 2nd-year student interested in
+**video editing, graphic design and creative content**.
 
-I enjoy creating creative and visually attractive designs.
-Graphic design allows me to express ideas through colors, typography, layouts, and visuals.
+I enjoy turning simple ideas into visual stories and continuously
+learning new skills.
 
-🛠️ Skills & Interests
+> **Small steps. Big dreams. 🌄**
 
-- 💻 Programming & Computer Applications
-- 🎨 Graphic Design
-- 🖼️ Digital Design
-- 📱 Creative Visual Content
-- 📚 Learning New Technologies
+---
 
-🎯 Goals
+## 🎨 My Skills
 
-My goal is to improve my technical and creative skills while building useful and attractive projects.
+- 🎬 Video Editing
+- 🖼️ Graphic Design
+- ✨ Content Creation
+- 💡 Creative Problem Solving
+- 🤝 Team Work
+- 📚 Continuous Learning
 
-«"Learn • Create • Improve • Repeat"»
+---
 
-📫 Connect With Me
+## 🛠️ Tools I Use
 
-I'm always interested in learning, creating, and connecting with people who share similar interests.
+| Tool | Purpose |
+|---|---|
+| 🎨 **Canva** | Graphic Design |
+| 👑 **CapCut Pro** | Advanced Video Editing |
+| 🎞️ **VN** | Video Creation & Editing |
 
-Thanks for visiting my profile! 😊
-  
+---
+
+# 🎬 My Edits
+
+## Featured Edit 01
+
+<video src="assets/my-edit-01.mp4" controls width="100%"></video>
+
+**Edited by me • CapCut + Canva + VN**
+
+## Featured Edit 02
+
+<video src="assets/my-edit-02.mp4" controls width="100%"></video>
+
+**Edited by me • Creative Video Edit**
+
+> If GitHub doesn't show the video player in the README,
+> open the MP4 from the `assets` folder.
+
+---
+
+## 🚀 Currently Learning
+
+```text
+BCA 2nd Year
+     ↓
+Programming + Web Development
+     ↓
+Graphic Design + Video Editing
+     ↓
+Creative Projects
+     ↓
+Future Developer 💻
