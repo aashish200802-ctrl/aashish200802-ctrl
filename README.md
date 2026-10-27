@@ -1,84 +1,78 @@
-<div align="center">
+<!-- BANNER IMAGE -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="Aashish Profile Banner">
+</p>
 
-<img src="assets/anime-nature-banner.png" width="100%" alt="Aashish Anime Nature Banner">
+<!-- PROFILE HEADER / TAGLINE -->
+<h3 align="center">
+  💻 Better Code &nbsp;&bull;&nbsp; 💡 Better Ideas &nbsp;&bull;&nbsp; 🌱 Better Me
+</h3>
 
-# 🌿 Aashish
+<br/>
 
-### BCA 2nd Year Student • Editor • Canva Designer • Video Creator
+<!-- ABOUT ME & SKILLS & TOOLS SECTION -->
+<table>
+  <tr>
+    <!-- ABOUT ME -->
+    <td width="30%" valign="top">
+      <h3>🌿 About Me</h3>
+      <p>
+        I'm <b>Aashish</b>, a BCA 2nd year student with a passion for editing, design and creating content. I love turning simple ideas into creative visuals and always learning something new.
+      </p>
+      <p><i>"Keep creating..."</i></p>
+    </td>
 
-**Turning ideas into visuals ✨ | Learn • Edit • Create • Grow**
+    <!-- MY SKILLS -->
+    <td width="25%" valign="top">
+      <h3>💻 My Skills</h3>
+      <ul>
+        <li>Video Editing</li>
+        <li>Graphic Design</li>
+        <li>Content Creation</li>
+        <li>Problem Solving</li>
+        <li>Team Work</li>
+      </ul>
+    </td>
 
-[![BCA](https://img.shields.io/badge/BCA-2nd%20Year-2563EB?style=for-the-badge)](#)
-[![Video Editing](https://img.shields.io/badge/Video-Editing-06B6D4?style=for-the-badge)](#)
-[![Canva](https://img.shields.io/badge/Canva-Design-7C3AED?style=for-the-badge&logo=canva)](https://www.canva.com/)
-[![CapCut](https://img.shields.io/badge/CapCut-Pro-111827?style=for-the-badge)](https://www.capcut.com/)
-[![VN](https://img.shields.io/badge/VN-Editor-FFFFFF?style=for-the-badge)](#)
+    <!-- TOOLS I USE -->
+    <td width="45%" valign="top">
+      <h3>🛠️ Tools I Use</h3>
+      <br/>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+        <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+        <img src="https://img.shields.io/badge/VN_Video_Editor-000000?style=for-the-badge&logo=video&logoColor=white" alt="VN Editor" />
+      </div>
+      <br/>
+      <p align="center">
+        <b>👑 CapCut Premium Pro</b><br/>
+        <sub>Advanced Editing | No Limits | Pro Features</sub>
+      </p>
+    </td>
+  </tr>
+</table>
 
-</div>
+<br/>
 
----
+<!-- FEATURED EDIT SECTION -->
+<h3 align="center">🎬 Featured Edit</h3>
+<p align="center">
+  <a href="YOUR_VIDEO_OR_PROJECT_LINK_HERE">
+    <img src="YOUR_FEATURED_THUMBNAIL_URL_HERE" width="600px" alt="Featured Edit">
+  </a>
+</p>
+<p align="center">
+  <b>My Edit</b> &bull; <i>Edited by Me | CapCut + Canva + VN</i>
+</p>
 
-## 🌱 About Me
+<br/>
 
-Hi! I'm **Aashish**, a BCA 2nd-year student interested in
-**video editing, graphic design and creative content**.
+<!-- FOOTER -->
+<hr/>
+<p align="center">
+  🚀 <b>Design</b> &nbsp;&bull;&nbsp; 🎨 <b>Edit</b> &nbsp;&bull;&nbsp; ✨ <b>Create</b>
+</p>
+<p align="center">
+  <sub>BCA 2nd Year &nbsp;|&nbsp; Future Developer &nbsp;|&nbsp; Creative Soul 🌱</sub>
+</p>
 
-I enjoy turning simple ideas into visual stories and continuously
-learning new skills.
-
-> **Small steps. Big dreams. 🌄**
-
----
-
-## 🎨 My Skills
-
-- 🎬 Video Editing
-- 🖼️ Graphic Design
-- ✨ Content Creation
-- 💡 Creative Problem Solving
-- 🤝 Team Work
-- 📚 Continuous Learning
-
----
-
-## 🛠️ Tools I Use
-
-| Tool | Purpose |
-|---|---|
-| 🎨 **Canva** | Graphic Design |
-| 👑 **CapCut Pro** | Advanced Video Editing |
-| 🎞️ **VN** | Video Creation & Editing |
-
----
-
-# 🎬 My Edits
-
-## Featured Edit 01
-
-<video src="assets/my-edit-01.mp4" controls width="100%"></video>
-
-**Edited by me • CapCut + Canva + VN**
-
-## Featured Edit 02
-
-<video src="assets/my-edit-02.mp4" controls width="100%"></video>
-
-**Edited by me • Creative Video Edit**
-
-> If GitHub doesn't show the video player in the README,
-> open the MP4 from the `assets` folder.
-
----
-
-## 🚀 Currently Learning
-
-```text
-BCA 2nd Year
-     ↓
-Programming + Web Development
-     ↓
-Graphic Design + Video Editing
-     ↓
-Creative Projects
-     ↓
-Future Developer 💻
